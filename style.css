@@ -1,0 +1,33 @@
+p{
+    color: red;
+}
+u{
+    color: rgb(60, 20, 145);
+}
+p{
+    font-size: large;
+}
+u{
+    font-size: larger;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.block1{
+    border-style: solid;
+}
+.block2{
+    border-style: dotted;
+    height: 100px;
+    width: 1000px;
+}
+.block3{
+    background-color: rgb(0, 0, 0);
+    border-top-color: lime;
+    flood-color: gold;
+    fill: cyan;
+    text-align: left;
+}

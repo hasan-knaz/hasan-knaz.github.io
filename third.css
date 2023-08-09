@@ -1,0 +1,27 @@
+li{
+    list-style-type: none;
+    font-size: xx-large;
+    color: red;
+}
+ul{
+    margin-left: 30px;
+    padding-left: 30px;
+}
+.block1{
+    background-color: wheat;
+    border-style: solid;
+    display: inline-block;
+}
+.block2{
+    background-color: aliceblue;
+    border-color: red;
+    display: inline-block;
+}
+p{
+    font-style: larger;
+    color: blue;
+}
+img{
+    height: 800px;
+    width: 1250px;
+}

@@ -1,0 +1,28 @@
+.block1{
+    border-style: solid;
+    background-color: aquamarine;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    padding: 80px;
+}
+.block2{
+    background-color: blanchedalmond;
+    border-style: dashed;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+}
+.block3{
+    margin: 25px;
+    background-color: coral;
+    height: 100px;
+    width: 200px;
+}
+.block4{
+    padding: 25px;
+    background-color: azure;
+    height: 100px;
+    width: 200px;
+    border-style: solid;
+}
